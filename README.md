@@ -1,3 +1,5 @@
+![Screenshot 2024-01-08 000350](https://github.com/anurag70/ElasticsearchSurvey/assets/72279629/3f571372-7397-4530-ba92-9071098efa32)
+![Screenshot 2024-01-08 000339](https://github.com/anurag70/ElasticsearchSurvey/assets/72279629/e1b232ef-ec10-4608-a172-4dbded5f47b0)
 ## to run the project first have to install requirements.txt file(pip3 install -r requiresmennt.txt --legacy-resolver=deprecated)
 ## also have to install elasticsearch and kibana and have to setup locally 
    1) for elasticsearch  (http://localhost:9200/)
