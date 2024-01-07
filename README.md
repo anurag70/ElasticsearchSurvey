@@ -1,7 +1,7 @@
 ## to run the project first have to install requirements.txt file(pip3 install -r requiresmennt.txt --legacy-resolver=deprecated)
 ## also have to install elasticsearch and kibana and have to setup locally 
-   for elasticsearch  (http://localhost:9200/)
-   for kibana  (http://localhost:5601/app/dev_tools#/console)
+   1) for elasticsearch  (http://localhost:9200/)
+   2) for kibana  (http://localhost:5601/app/dev_tools#/console)
 
 
 # for uploading the survey dataset 
